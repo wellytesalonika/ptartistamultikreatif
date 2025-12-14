@@ -33,6 +33,9 @@ export const metadata: Metadata = {
     title: "PT ARTISTA MULTI KREATIF - Creative Advertising Agency",
     description: "Agency periklanan kreatif yang menghadirkan solusi digital dan branding untuk bisnis Anda",
   },
+  other: {
+    "facebook-domain-verification": "c0u7xghsgfglc2ehtizfkndri3t08t",
+  },
 };
 
 export default function RootLayout({
